@@ -3,7 +3,7 @@ import hashlib
 from pathlib import Path
 from getpass import getpass
 
-DB_FILE = Path("vault.json")
+DB_FILE = Path("vaultt.json")
 
 
 class SecretVault:
