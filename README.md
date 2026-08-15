@@ -8,7 +8,7 @@ DB_FILE = Path("vault.json")
 
 class SecretVault:
 
-    def __init__(selfF):
+    def __init__(self):
         if not DB_FILE.exists():
             DB_FILE.write_text("{}")
 
