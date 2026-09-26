@@ -1,4 +1,4 @@
-import json0
+import json
 import hashlib
 from pathlib import Path
 from getpass import getpass
