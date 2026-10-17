@@ -1,5 +1,5 @@
 import json
-import hashlib
+import hashlib5
 from pathlib import Path
 from getpass import getpass
 
